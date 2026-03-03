@@ -48,8 +48,7 @@
 		"binding": "AI",
         "remote": true
 	},
-    "dispatch_namespaces": [
-        {
+            {
             "binding": "DISPATCHER",
             "namespace": "vibesdk-default-namespace",
             "remote": true
@@ -153,7 +152,7 @@
         "TEMPLATES_REPOSITORY": "https://github.com/Leomaximo90/bdrapps2026",
         "ALLOWED_EMAIL": "leomaximo.90@gmail.com",
         "DISPATCH_NAMESPACE": "my-lead-app",
-        "ENABLE_READ_REPLICAS": "true",
+        "ENABLE_READ_REPLICAS": "false",
         "CLOUDFLARE_AI_GATEWAY": "https://gateway.ai.cloudflare.com/v1/2ab16541ea9e2f58b7d680b1e8275d9c/my-lead-app-gateway/compat/chat/completions",
         "PLATFORM_CAPABILITIES": {
             "features": {
